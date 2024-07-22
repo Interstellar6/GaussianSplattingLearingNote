@@ -1,0 +1,2 @@
+# GaussianSplattingLearingNote
+对这个3DGS代码在个人理解的基础上进行详细注释， 帮助理解代码的运行逻辑
